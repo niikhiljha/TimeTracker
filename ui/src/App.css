@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+/* Custom styles to match original design */
+.bg-indigo-100 {
+  background-color: #e0e7ff;
+}
+.bg-indigo-500 {
+  background-color: #6366f1;
+}
+.bg-indigo-600 {
+  background-color: #4f46e5;
+}
+.text-indigo-600 {
+  color: #4f46e5;
+}
+.bg-gray-50 {
+  background-color: #f9fafb;
+}
+.bg-gray-100 {
+  background-color: #f3f4f6;
+}
